@@ -632,7 +632,9 @@ document.getElementById("downloadExcelButton").addEventListener("click", async f
     let rows = parseInt(document.getElementById("rowsperpage").value) || 20;
     // let latitude = parseFloat(document.querySelector('#latitude').value) 
     // let longitude = parseFloat(document.getElementById('longitude').value)
-    const buffer = await getDataAndGenerateCSVBuffer(address, rows, latitude = null, longitude = null);
+    let latitude = null;
+    let longitude = null;
+    const buffer = await getDataAndGenerateCSVBuffer(address, rows, latitude, longitude);
     const blob = new Blob([
         buffer
     ], {

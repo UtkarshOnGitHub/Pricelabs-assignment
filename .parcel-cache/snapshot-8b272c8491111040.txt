@@ -9,7 +9,7 @@
 62D:\FT_WEB\Pricelabs-assignment\node_modules\@parcel\diagnostic133689534416523620 1
 96D:\FT_WEB\Pricelabs-assignment\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133689534422069164 0
 53D:\FT_WEB\Pricelabs-assignment\node_modules\env-paths133689534415943538 1
-41D:\FT_WEB\Pricelabs-assignment\.gitignore133689500205728524 0
+41D:\FT_WEB\Pricelabs-assignment\.gitignore133689543542868437 0
 54D:\FT_WEB\Pricelabs-assignment\node_modules\domhandler133689534416633616 1
 96D:\FT_WEB\Pricelabs-assignment\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\api133689534417668840 1
 113D:\FT_WEB\Pricelabs-assignment\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Value.js133689534422789166 0
@@ -49,7 +49,7 @@
 75D:\FT_WEB\Pricelabs-assignment\node_modules\lmdb\dependencies\lz4\lib\lz4.c133689534419540617 0
 95D:\FT_WEB\Pricelabs-assignment\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133689534419952276 0
 96D:\FT_WEB\Pricelabs-assignment\node_modules\csso\node_modules\css-tree\lib\syntax\scope\value.js133689534424394861 0
-35D:\FT_WEB\Pricelabs-assignment\dist133689538748889827 1
+35D:\FT_WEB\Pricelabs-assignment\dist133689546158335906 1
 75D:\FT_WEB\Pricelabs-assignment\node_modules\caniuse-lite\data\regions\AX.js133689534420412286 0
 56D:\FT_WEB\Pricelabs-assignment\node_modules\svgo\plugins133689534421999164 1
 62D:\FT_WEB\Pricelabs-assignment\node_modules\@parcel\runtime-js133689534420142261 1
@@ -67,7 +67,7 @@
 81D:\FT_WEB\Pricelabs-assignment\node_modules\caniuse-lite\data\features\imports.js133689534425839299 0
 88D:\FT_WEB\Pricelabs-assignment\node_modules\caniuse-lite\data\features\xml-serializer.js133689534429165291 0
 100D:\FT_WEB\Pricelabs-assignment\node_modules\@parcel\runtime-js\lib\helpers\browser\preload-loader.js133689534419710593 0
-39D:\FT_WEB\Pricelabs-assignment\index.js133689538748544682 0
+39D:\FT_WEB\Pricelabs-assignment\index.js133689546157995778 0
 83D:\FT_WEB\Pricelabs-assignment\node_modules\@swc\helpers\cjs\_iterable_to_array.cjs133689534420862326 0
 91D:\FT_WEB\Pricelabs-assignment\node_modules\@parcel\reporter-dev-server\src\serverErrors.js133689534416763619 0
 62D:\FT_WEB\Pricelabs-assignment\node_modules\tslib\tslib.es6.js133689534415878500 0
@@ -3101,7 +3101,7 @@
 77D:\FT_WEB\Pricelabs-assignment\node_modules\@parcel\reporter-cli\package.json133689534417878930 0
 76D:\FT_WEB\Pricelabs-assignment\node_modules\css-what\lib\commonjs\parse.d.ts133689534418495277 0
 82D:\FT_WEB\Pricelabs-assignment\node_modules\cosmiconfig\dist\getDirectory.d.ts.map133689534418970600 0
-57D:\FT_WEB\Pricelabs-assignment\dist\index.3d214d75.js.map133689538748879822 0
+57D:\FT_WEB\Pricelabs-assignment\dist\index.3d214d75.js.map133689546158325893 0
 75D:\FT_WEB\Pricelabs-assignment\node_modules\css-tree\lib\lexer\structure.js133689534424274813 0
 69D:\FT_WEB\Pricelabs-assignment\node_modules\@parcel\transformer-babel133689534418465299 1
 80D:\FT_WEB\Pricelabs-assignment\node_modules\css-what\lib\commonjs\parse.d.ts.map133689534417688854 0
@@ -5916,4 +5916,4 @@
 75D:\FT_WEB\Pricelabs-assignment\node_modules\.bin\update-browserslist-db.cmd133689534431591074 0
 53D:\FT_WEB\Pricelabs-assignment\dist\index.3f4869bc.js133689514564022516 0
 53D:\FT_WEB\Pricelabs-assignment\dist\index.c933909d.js133689534594005501 0
-53D:\FT_WEB\Pricelabs-assignment\dist\index.3d214d75.js133689538748859794 0
+53D:\FT_WEB\Pricelabs-assignment\dist\index.3d214d75.js133689546158305877 0
